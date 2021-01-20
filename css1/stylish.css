@@ -140,6 +140,13 @@ border-bottom-right-radius: 10px;
  }
 
 }
+@media(max-width:500px)
+{
+  .container_top img{
+    width: 300px;
+    height: auto;
+  }
+}
 ::-webkit-scrollbar{
   width: 8px;
 
